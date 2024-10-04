@@ -1,3 +1,4 @@
+**/*.out
 *.dvi
 *.out.ps
 *.synctex
