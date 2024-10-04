@@ -1,7 +1,9 @@
-
-curriculum-vitae/main.dvi
-curriculum-vitae/main.out.ps
-curriculum-vitae/main.synctex
-curriculum-vitae/main.synctex(busy)
-curriculum-vitae/main.log
-curriculum-vitae/main.aux
+*.dvi
+*.out.ps
+*.synctex
+*.synctex(busy)
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
